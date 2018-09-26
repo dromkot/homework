@@ -1,0 +1,17 @@
+{
+  "name": "react-1",
+  "version": "0.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stfalcon-it-academy/react-1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://github.com/stfalcon-it-academy/react-1#readme",
+  "devDependencies": {
+    "prettier": "^1.14.3"
+  }
+}
