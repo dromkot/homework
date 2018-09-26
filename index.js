@@ -49,4 +49,4 @@ var button = React.createElement(
     )
 );
 
-ReactDOM.render(button, document.getElementById('app'));
+ReactDOM.render(button, document.getElementById('form'));

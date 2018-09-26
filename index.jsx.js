@@ -22,4 +22,4 @@ const button = <div className="alert alert-warning" role="alert">
     </form>
 </div>;
 
-ReactDOM.render(button, document.getElementById('app'));
+ReactDOM.render(button, document.getElementById('form'));
