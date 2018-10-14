@@ -1,15 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
+
 import App from './App';
-import Form from './form.js';
+import './index.css';
+
 import registerServiceWorker from './registerServiceWorker';
 
 ReactDOM.render(<App />, document.getElementById('root'));
-
-ReactDOM.render(<Form />, document.getElementById('form'));
 registerServiceWorker();
-
-if (module.hot) {
-  module.hot.accept();
-}
